@@ -1,0 +1,596 @@
+{
+   "checksum": "4d0edc5221428d4cba25e31d68d39690",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13238496404059471",
+               "date_last_used": "0",
+               "guid": "3642165e-284a-4306-9e49-68e36cbdb00f",
+               "id": "53",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/"
+            }, {
+               "date_added": "13238496404069547",
+               "date_last_used": "0",
+               "guid": "2ef36716-1e25-47e5-8ed0-6180c784d6c9",
+               "id": "54",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/"
+            } ],
+            "date_added": "13343623373751329",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "eff8879d-f232-4c84-8309-989ca8e04c2d",
+            "id": "52",
+            "name": "Lenovo",
+            "source": "import_fre",
+            "type": "folder"
+         }, {
+            "date_added": "13323121279899819",
+            "date_last_used": "0",
+            "guid": "049518e4-0cb4-4f12-bc2b-fbf8e00d7672",
+            "id": "55",
+            "name": "GitHub - vinstechmy/AutoscriptWebsocketLite",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/vinstechmy/AutoscriptWebsocketLite"
+         }, {
+            "date_added": "13329728699658368",
+            "date_last_used": "13330263336350921",
+            "guid": "f5000672-aff7-4177-ac35-9fd87872bcf2",
+            "id": "56",
+            "name": "Telegram Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.telegram.org/k/"
+         }, {
+            "date_added": "13332748865074183",
+            "date_last_used": "0",
+            "guid": "b42d3c84-4fda-4cd2-aa83-0546f8c3a442",
+            "id": "57",
+            "name": "Free online HTML editor - onlinehtmleditor.dev",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://onlinehtmleditor.dev/"
+         }, {
+            "date_added": "13333209178619122",
+            "date_last_used": "0",
+            "guid": "8c383509-9be1-49c9-a5de-f536f46f57d5",
+            "id": "58",
+            "name": "MIT App Inventor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://ai2.appinventor.mit.edu/#6642502931972096"
+         }, {
+            "date_added": "13333253787211281",
+            "date_last_used": "0",
+            "guid": "cb055519-033b-4d30-ad3a-d8e65f5ae1a8",
+            "id": "59",
+            "name": "Putih & Biru Geometris Seminar Marketing Sertifikat - A4 (Landscape)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAFoAcOvwqk/MWMMP0YypI30aPmu3B1eCg/edit"
+         }, {
+            "date_added": "13333408931816720",
+            "date_last_used": "0",
+            "guid": "66e131de-de50-4189-9878-cfe37a8210b7",
+            "id": "60",
+            "name": "YoshaMusic/app/src/main/res/layout/activity_detail.xml at master · JosuaMnl/YoshaMusic · GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/JosuaMnl/YoshaMusic/blob/master/app/src/main/res/layout/activity_detail.xml"
+         }, {
+            "date_added": "13333619904915031",
+            "date_last_used": "0",
+            "guid": "8b8acc17-4cea-449f-b670-057be922edf2",
+            "id": "61",
+            "name": "Android Studio download archives  |  Android Developers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.android.com/studio/archive"
+         }, {
+            "date_added": "13334571655867149",
+            "date_last_used": "0",
+            "guid": "c1ae0b2d-fef0-4b08-9c18-4683f395662b",
+            "id": "62",
+            "name": "Material Symbols and Icons - Google Fonts",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://fonts.google.com/icons?selected=Material+Symbols+Outlined:school:FILL@0;wght@400;GRAD@0;opsz@48&icon.query=group"
+         }, {
+            "date_added": "13335010370652173",
+            "date_last_used": "0",
+            "guid": "bc383f1d-6c63-4b55-b02b-f2f1386b1747",
+            "id": "63",
+            "name": "How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu 22.04 | DigitalOcean",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-22-04"
+         }, {
+            "date_added": "13335504864610359",
+            "date_last_used": "0",
+            "guid": "089c2f45-f4ee-4ed4-bb0e-19e74bf5cacd",
+            "id": "64",
+            "name": "javascript - Disable multiple date ranges with jquery ui calendar - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/41088879/disable-multiple-date-ranges-with-jquery-ui-calendar"
+         }, {
+            "date_added": "13336228253150676",
+            "date_last_used": "0",
+            "guid": "48c56cf1-dcc9-482b-8a63-8e79f4ef4e23",
+            "id": "65",
+            "name": "New chat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/c/0e80b59d-8461-4ac7-a25d-642605b98b21"
+         }, {
+            "children": [ {
+               "date_added": "13336577583252343",
+               "date_last_used": "0",
+               "guid": "1d40c6a3-78ce-4f0a-9148-4d60debfd3fa",
+               "id": "67",
+               "name": "Convert Excel to JSON Array - Table Convert Online",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://tableconvert.com/excel-to-json"
+            }, {
+               "date_added": "13337471823506240",
+               "date_last_used": "0",
+               "guid": "5075a113-4e55-416e-8896-e52bf52f6623",
+               "id": "68",
+               "name": "Kumpulan Format Akun Untuk Openclash - Belajar OpenWRT",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://blog.vpngame.com/openwrt/kumpulan-daftar-format-akun-untuk-openclash/#Trojan_gRPC_SNI"
+            }, {
+               "date_added": "13339218855264913",
+               "date_last_used": "0",
+               "guid": "7bef573c-67ba-44cd-9f64-ea5815a7e165",
+               "id": "69",
+               "name": "Web Hosting Murah Terbaik Indonesia - Gratis Domain & SSL",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.rumahweb.com/hosting-murah/"
+            }, {
+               "date_added": "13340737470943627",
+               "date_last_used": "0",
+               "guid": "45ea76c3-a81c-4431-96c4-0db1a6b1db0a",
+               "id": "70",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cara Upload File Laravel ke Hosting Terbaik Cepat dan Mudah",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.domainesia.com/panduan/cara-upload-file-laravel-di-hosting/#:~:text=Cara%20Upload%20File%20Laravel%20ke%20Hosting%201%201.,...%207%207.%20Upload%20File%20Laravel%20Berhasil%21%20"
+            }, {
+               "date_added": "13343542662008587",
+               "date_last_used": "0",
+               "guid": "2684368d-0d91-4c24-aa48-5cd2976843ed",
+               "id": "71",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "filament-demo/app/Filament/Widgets/CustomersChart.php at apex-charts-plugin-v3 · leandrocfe/filament-demo · GitHub",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://github.com/leandrocfe/filament-demo/blob/apex-charts-plugin-v3/app/Filament/Widgets/CustomersChart.php"
+            } ],
+            "date_added": "13336577604425953",
+            "date_last_used": "0",
+            "date_modified": "13343542662008587",
+            "guid": "9b6119e9-b0e5-460f-a8be-d934004b282f",
+            "id": "66",
+            "name": "Tools",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13343623364398709",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13343623364398712",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13180501590080814",
+            "date_last_used": "0",
+            "guid": "206a700a-c91b-401a-aeb2-de7880573502",
+            "id": "17",
+            "name": "Tutorial Membuat Simulasi Finger Print Untuk Absensi Berbasis Web Menggunakan PHP & MySql - PENGETAHUAN UMUM",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://kamarujung.blogspot.com/2016/01/tutorial-membuat-simulasi-finger-print.html?m=1"
+         }, {
+            "date_added": "13193174418648787",
+            "date_last_used": "0",
+            "guid": "691a4f00-ed26-4e63-972b-264ef270b6eb",
+            "id": "18",
+            "name": "Download Free Premium Mobile Source Games and Apps Code Reskin Nulled",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.codereskin.com/?m=1"
+         }, {
+            "date_added": "13193329131120250",
+            "date_last_used": "0",
+            "guid": "df1b8fa3-443b-4ff1-82d4-ebef7f257b3b",
+            "id": "19",
+            "name": "Realtime Chat Using Firebase Database – Meet Patel – Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/@meetpatel12121995/realtime-chat-using-firebase-database-b65ee23f3b6a"
+         }, {
+            "date_added": "13194235471776471",
+            "date_last_used": "0",
+            "guid": "4df940aa-43b6-4b39-961f-0375cadad52f",
+            "id": "20",
+            "name": "25 Beautiful Corporate Websites - Vandelay Design",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.vandelaydesign.com/best-corporate-website-designs/"
+         }, {
+            "date_added": "13238896230961597",
+            "date_last_used": "0",
+            "guid": "3933b2dd-2314-40b3-8bb7-b75fc1522e44",
+            "id": "21",
+            "name": "captain-miao/TopAlignedTextView: remove the top and bottom space on textview of Android",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/captain-miao/TopAlignedTextView"
+         }, {
+            "date_added": "13253471453108720",
+            "date_last_used": "0",
+            "guid": "3e4802d2-1c6d-4573-a2e7-2c3250347eb0",
+            "id": "22",
+            "name": "Cara Install Laravel 7 Menggunakan Composer - Ilmu Coding",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ilmucoding.com/cara-install-laravel-7/"
+         }, {
+            "date_added": "13255630592674783",
+            "date_last_used": "0",
+            "guid": "1a164d8e-2c3a-4d27-bcce-5f6952b02245",
+            "id": "23",
+            "name": "22 Free VueJS Admin Templates For Web Applications 2021 - Colorlib",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://colorlib.com/wp/free-vuejs-admin-template/"
+         }, {
+            "date_added": "13255636611164122",
+            "date_last_used": "0",
+            "guid": "30384e31-eab6-402c-afb9-8ed83daf8bc4",
+            "id": "24",
+            "name": "Getting your First Laravel WebApp Up and Running",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://updivision.com/blog/post/beginner-s-guide-to-getting-your-first-laravel-website-webapp-up-and-running"
+         }, {
+            "date_added": "13263504499191937",
+            "date_last_used": "0",
+            "guid": "9725c01c-baa1-4747-81b1-963461e37375",
+            "id": "25",
+            "name": "Upload Multiple Images With Image Preview Using jQuery,Ajax And PHP (May 2020)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://talkerscode.com/webtricks/upload-multiple-images-with-image-preview-using-jquery-ajax-php.php"
+         }, {
+            "date_added": "13266337961623307",
+            "date_last_used": "0",
+            "guid": "eef32dbd-5d8f-4fef-9079-0cdedafb92aa",
+            "id": "26",
+            "name": "Android Examples: Android (Kotlin) Login and Register using Retrofit example with PHP MYSQL",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://jainishprajapati.blogspot.com/2019/12/android-kotlin-login-and-register-using.html"
+         }, {
+            "date_added": "13266346364060569",
+            "date_last_used": "0",
+            "guid": "05cccf62-8f8c-4fb7-8109-4d82adfc6313",
+            "id": "27",
+            "name": "Postman",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.postman.co/onboarding/user"
+         }, {
+            "date_added": "13266775894112959",
+            "date_last_used": "0",
+            "guid": "742bd25a-b6da-405d-8230-46680b3dcd9b",
+            "id": "28",
+            "name": "Complete Guide on Sending Push Notifications on Android - Using Firebase | by Inuwa Ibrahim | CodeX | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/codex/complete-guide-on-sending-push-notifications-on-android-using-firebase-82a4c2f7f3a7"
+         }, {
+            "date_added": "13266775898182809",
+            "date_last_used": "0",
+            "guid": "54e9e8c0-bed8-470e-a52a-1edfcf5f74b9",
+            "id": "29",
+            "name": "Laravel Firebase Push Notification Tutorial - ItSolutionStuff.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.itsolutionstuff.com/post/laravel-firebase-push-notification-tutorialexample.html"
+         }, {
+            "date_added": "13272574530709275",
+            "date_last_used": "0",
+            "guid": "cdfac8cb-7038-4562-85c3-a6fc7f1ff0f5",
+            "id": "30",
+            "name": "🤖Free Proxy List [3,999 Proxies Online]",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://geonode.com/free-proxy-list"
+         }, {
+            "date_added": "13275866704811840",
+            "date_last_used": "0",
+            "guid": "37ff332a-ba8e-4323-9a19-da12701ff0a6",
+            "id": "31",
+            "name": "Youtuber convert",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ytconv.cc/success"
+         }, {
+            "date_added": "13279666026282313",
+            "date_last_used": "0",
+            "guid": "6a4c16dc-bc39-4fdf-9ceb-27f44ddfa161",
+            "id": "32",
+            "name": "Download AFT Tool Versi Terbaru 5.0.2 Tanpa Aktivasi - Budakbego | Sahabatnya Para Teknisi",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.budakbego.net/2017/12/download-aft-tool-versi-terbaru-502.html"
+         }, {
+            "date_added": "13282069385410922",
+            "date_last_used": "0",
+            "guid": "f9841fed-b0ae-4bdc-854f-e7741e663fed",
+            "id": "33",
+            "name": "Sintren",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://disdukcapil.cirebonkab.go.id/sintren/pembuatan-dokumen"
+         }, {
+            "date_added": "13282850123488940",
+            "date_last_used": "0",
+            "guid": "a9b4802b-61f2-4ae6-ae6b-a2bea5fd3457",
+            "id": "34",
+            "name": "Testimoni Kelas Online Product Review Instagram Post - Kiriman Instagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAExUFcQrfY/SlqEZmwMbi8dI2XD1ZMy5g/edit#"
+         }, {
+            "date_added": "13283613901877875",
+            "date_last_used": "0",
+            "guid": "a84215b7-4201-4899-a53e-e4f7be793148",
+            "id": "35",
+            "name": "php - Access to Laravel 5 app locally from an external device - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/30675025/access-to-laravel-5-app-locally-from-an-external-device"
+         }, {
+            "date_added": "13290707793868243",
+            "date_last_used": "0",
+            "guid": "e985a02e-6b84-42f6-af05-b73f6e80acab",
+            "id": "36",
+            "name": "php - trying to update composer but problem arise - Stack Overflow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/65715975/trying-to-update-composer-but-problem-arise"
+         }, {
+            "date_added": "13290709569295950",
+            "date_last_used": "0",
+            "guid": "8346134f-2dc7-434b-befd-63da2217affb",
+            "id": "37",
+            "name": "Cara Install Laravel Dari Clone Git di cPanel - Knowledge Base Jagoan Hosting Indonesia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.jagoanhosting.com/tutorial/tutorial-cpanel/cara-install-laravel-dari-clone-git-di-cpanel"
+         }, {
+            "date_added": "13292088290416186",
+            "date_last_used": "0",
+            "guid": "a0468e30-23dc-4fcf-a1bd-3bf858f0e13a",
+            "id": "38",
+            "name": "Image Splitter & Grid Maker for Instagram - 100% Online",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mysocialboutique.co/instagram-grid-maker/"
+         }, {
+            "date_added": "13292341623575506",
+            "date_last_used": "0",
+            "guid": "334ee986-7f71-4058-b174-086462983f79",
+            "id": "39",
+            "name": "farizdotid/DAFTAR-API-LOKAL-INDONESIA: Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia \u003C3",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA"
+         }, {
+            "date_added": "13292877369608352",
+            "date_last_used": "0",
+            "guid": "33fc81e3-7858-4484-a647-dd8aec38123b",
+            "id": "40",
+            "name": "lQV58MBG9HllZTg1 - all telegram channel posts CONFIG AND BUG INTERNET",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://telemetr.io/en/channels/1158714750-lQV58MBG9HllZTg1/posts"
+         }, {
+            "date_added": "13295790096232513",
+            "date_last_used": "0",
+            "guid": "aa1c169d-1f10-4e31-8945-9463502d8f67",
+            "id": "41",
+            "name": "Codelab Paging Android Lanjutan  |  Android Developers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.android.com/codelabs/android-paging?hl=id#4"
+         }, {
+            "date_added": "13295981865774880",
+            "date_last_used": "0",
+            "guid": "253d7b03-982a-4b48-a98f-37c863eaf074",
+            "id": "42",
+            "name": "Android MVP Series : Implementasi Unit Test pada Android MVP | by Eminarti Sianturi | Easyread | Medium",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://medium.com/easyread/android-mvp-series-implementasi-unit-test-pada-android-mvp-f1971c44cf1c"
+         }, {
+            "date_added": "13308605875997648",
+            "date_last_used": "0",
+            "guid": "45cf9b12-30e6-498f-bd0d-9925b4f9dab6",
+            "id": "43",
+            "name": "KnpLabs/snappy: PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/KnpLabs/snappy#wkhtmltopdf-binary-as-composer-dependencies"
+         }, {
+            "date_added": "13309242532112752",
+            "date_last_used": "0",
+            "guid": "4ed29ecf-04b6-45d4-8c18-124d640b5de3",
+            "id": "44",
+            "name": "How to convert html to pdf in laravel 8 / 9?",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://readerstacks.com/how-to-convert-html-to-pdf-in-laravel-8-9/"
+         }, {
+            "date_added": "13310450643281621",
+            "date_last_used": "0",
+            "guid": "9681d52b-d321-4fa7-8e1d-d6546c77959e",
+            "id": "45",
+            "name": "GitHub Profile Readme Generator | GitHub Profile Readme Generator",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://rahuldkjain.github.io/gh-profile-readme-generator/"
+         }, {
+            "date_added": "13311188660492667",
+            "date_last_used": "0",
+            "guid": "0a89b45c-f638-42fb-a737-9ce8d61400a6",
+            "id": "46",
+            "name": "Html Builder - Column Builder - Laravel DataTables - YajraBox",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://yajrabox.com/docs/laravel-datatables/master/html-builder-column-builder"
+         }, {
+            "date_added": "13311873420832999",
+            "date_last_used": "0",
+            "guid": "62df3529-dea1-4f9e-89e8-ff245694c8ce",
+            "id": "47",
+            "name": "Dashboard - SQL Database Modeler, Entity Relationship Diagram",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://sqldbm.com/Project/Dashboard/All/"
+         }, {
+            "date_added": "13311964923160753",
+            "date_last_used": "0",
+            "guid": "eff15376-9b6e-4014-9caa-74ffad1395fc",
+            "id": "48",
+            "name": "Mockaroo - verif",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mockaroo.com/schemas/459788"
+         }, {
+            "date_added": "13316883972817676",
+            "date_last_used": "0",
+            "guid": "129fb579-1e17-408f-9c9f-2bbf7383078d",
+            "id": "49",
+            "name": "Untitled - dbdiagram.io",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dbdiagram.io/d/636517dfc9abfc6111705702"
+         }, {
+            "date_added": "13317233755795942",
+            "date_last_used": "0",
+            "guid": "73b57598-c85e-47a8-a7d9-e951a060b699",
+            "id": "50",
+            "name": "Peta Choropleth dengan R dan Leaflet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.nurandi.id/nb/choropleth-leaflet.html#peta-leaflet"
+         }, {
+            "date_added": "13319045892088078",
+            "date_last_used": "0",
+            "guid": "ce5779f2-d24b-4578-8205-7f19bc888722",
+            "id": "51",
+            "name": "Part-1 | NestJS(v9) | ReactJS(v18) | MongoDB | CRUD Example",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.learmoreseekmore.com/2022/10/part1-nestjs-v9-reactjs-v18-mongodb-crud-example.html"
+         } ],
+         "date_added": "13343623364398714",
+         "date_last_used": "0",
+         "date_modified": "13319045892088078",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCL6tsaWLAQAAEgAgASoYc1pxRjdRTnJ6VVk4NElPRXdGc2NQZz09oAYMEqgBCEYSowEKHEJ2ZUt0UThKRUsxMktGSWsxc2xKU0FhRk4wTT0SJDQ1ZWE3NmMzLWE4MWMtNDQzMS05NmM0LTBkYjFhNmIxZGIwYRgAIAAoADD03NKJrzE4ieHSia8xQInh0omvMUocRzF5UkFSV3dDMU5Ma2NGVXJ5TkdzeTkwdXRjPVofIh3tVHM3Z1pZKzZJT2wvYWpRZ3oyekNKRkFCeHVrPWXzmN9kErABCCASqwEKHHVBM0NzUE5zNERWeklIaDVBcm1HTlpLdXZvcz0SJDZhNGMxNmRjLWJjMzktNGZkZi05Y2ViLTI3ZjQ0ZGRmYTE2MRgAIAAoADCgz6745jA44dKu+OYwQOHSrvjmMEocdFQ3bHk5bmhvaWxUR01yUVVBZytYVVUzd1lnPVonIiX/////AAAABP1RM0VpNXNxbm1NcEY4TGNoUHVjcmNWdGN5V0k9Za+XA7sSqAEIRRKjAQocOGpHSkdoSTd5dDB5NGZOSE9ROG85c240by9zPRIkN2JlZjU3M2MtNjdiYS00NGNkLTlmNjQtZWE1ODE1YTdlMTY1GAAgACgAMPLnwbWpMTj47cG1qTFA+O3BtakxShxXZlZoRnduWmx0S2JGOHJ0NEd6VmM5Y21qS1k9Wh8iHdo2WWQ4cHVlbG5peWlIOFpvbXY4R2VzOTRCWDQ9ZW7eK3MSqAEINhKjAQocZDBnd29oSmJSNkEwUVBsR3BTOGptK2JScVpNPRIkMmVmMzY3MTYtMWUyNS00N2U1LThlZDAtNjE4MGM3ODRkNmM5GAAgACgAMI3TrOL8Lzjl06zi/C9A5dOs4vwvShxHRWJCdEsxUlc3YXI4S0VodE5qdEViWXVtN3M9Wh8iHbZqU0NVMStvdmRTdVlRWUI3WFY2OWE5RHR0L0U9ZQAAAAASqAEIRBKjAQocNDRmTmUvTEJYcXhucXhxNVlsanNORVZPaks0PRIkNTA3NWExMTMtNGU1NS00MTZlLTg4OTYtZTUyYmY1MmY2NjIzGAAgACgAMP+Fu/SiMTi/ibv0ojFAv4m79KIxShxlOVBlc1p3b0lmQTdra0dEOGFrdzF2dXlIUUE9Wh8iHbQ0bU51OURFR2Q5NlBkYTdvbkJmMmZYaWJWZXM9ZZScIQoSqAEIPhKjAQocc1orZmFNUnQ1R29TYXhzTkl6ZmprcVROei9BPRIkYzFhZTBiMmQtZmVmMC00YjA4LTljMTgtNDY4M2YzOTU2NjJiGAAgAigCMNyEzeq5MTj9nceNmDFA3IjE6rkxShw0MGJvSWpsMnBUMUhjckppUm00dlRGRE0yUTQ9Wh8iHf9UQ0hWSzFmc00wTDdTTEZhS2k5N2JlcllwNDg9ZQdoU5sSqAEIOhKjAQocV3pSS0lWbVdYcFpIRnpaT1NXVE4reVBlYytvPRIkOGMzODM1MDktOWJlMS00OWM5LWE1ZGUtZjUzNmY0NmY1N2Q1GAAgAigCMN2Ezeq5MTjTivCDkzFA2IjE6rkxShxjcHIrbGpFL0dkQUpySDhZMm9IOGw2UGhWZEk9Wh8iHfduSDJ1bG0yZDA5Z2VvYjBIbGVYNks2V3k3OEE9ZRAw/+QSqQEIQhKkAQocQXdDUGdaWUMyUVAwZGNtN2hrQ3ltc2Y5YVhNPRIkOWI2MTE5ZTktYjBlNS00NjBmLWE4YmUtZDkzNDAwNGIyODJmGAAgACgAMKLkiMqfMTjr54jKnzFA6+eIyp8xShxGbytVMWJiMzlPUjk2VTU3a1QyeTZ0UWl0eDA9WiAiHv/sWndzaFZWMVdZWmdkTVREdE9BdURQME10cFNZPWUAAAAAEqgBCD8SowEKHGpBUjNGWFhNNi84OS91Zk9NTmpWb2RyR1IxQT0SJGJjMzgzZjFkLTZjNjMtNGI1NS1iMDJiLWYyZjEzODZiMTc0NxgAIAAoADDUl+DemTE4uZvg3pkxQLmb4N6ZMUocNEhseTBpc0sxNTRYcUdNUEI0d1VyYjNFSzlFPVofIh3/Y1RiVHIrcG0wS3F1RW8wT0hIMmNyUWZyZndnPWUiChMbEqkBCEESpAEKHHVaZ3FMN0Rmb3NXRUdudWFmOEMwL2xlR2E2QT0SJDQ4YzU2Y2YxLWRjYzktNDgyYi04YTYzLThlNzlmNGVmNGUyMxgAIAAoADDj4L2jnjE4jOW9o54xQIzlvaOeMUocM0RUZFlLM25CVFpQdFZTcEg2U3VUMlcvNWpzPVogIh7/syt1T2NwS2FHeGJ3ZC9rQWgxYXF4NXVxbzlMZz1laRsi8xKnAQg0EqIBChx5ejhZeTR3dXdySjVxa3QxZzd2MUpNZEpvc2c9EiRlZmY4ODc5ZC1mMjMyLTRjODQtODMwOS05ODljYThlMDRjMmQYACAAKAAwjdOs4vwvOKbTrOL8L0Cm06zi/C9KHGVqZ05ra2NYNDJsa1dWZmtkN1NSYjkwRzhEZz1aHiIcdEN3NzQzV2RWM0VybzI5VkRWRGpLc0NoWE13PWUAAAAAErABCDESqwEKHFRqZHJjRDBRc1pWKzhkZEE5ZVN3S1Bsd2s4bz0SJDEyOWZiNTc5LTFlMTctNDA4Zi05YzlmLTJiYmY3MzgzMDc4ZBgAIAAoADCorq745jA4lrKu+OYwQJayrvjmMEocV2pFK3FZaTJYSmhGaFVRamFsZzVveTBCRVNFPVonIiX/////AAAACOozRFc5SGtFYnVxOHVWWTM5YnowZnJVeVE4ZTA9ZVkVMOASsAEILxKrAQocZTJMRTVEZCszcE9jekkvNVJheUN6aEdud3VVPRIkNjJkZjM1MjktZGVhMS00ZjllLTg5ZTgtZmYyNDU2OTRjOGNlGAAgACgAMKTOsfjmMDjP0bH45jBAz9Gx+OYwShwzZXc1SjRGL0F5TnF0MHZnTURDZW9iNmVCTWs9WiciJf////8AAAAH/kFVTk9lQnZBMmZ6aUhRUjMyUEV6enJHQ2tQQT1lx6HrpxKwAQgqEqsBChwzRzIzbGxleWtmNGVOUmpYSFB3Nm0xdmtVS0U9EiQyNTNkN2IwMy05ODJhLTRiNDgtYTk4Zi0zN2M4NjNlYWYwNzQYACAAKAAwos+u+OYwOJ/TrvjmMECf06745jBKHFFTYXlUNUVZbUYzYWx0dFRPdCtxb2M4cVN1MD1aJyIl/////wAAAAb0ZUZEbjlPSSt0alBXakFpajFtWUNCVFVKdjNzPWVbhUNjEqcBCDUSogEKHE50VmlvMlVBTUxQWWpVVk5LSmFra0dsd2VrWT0SJDM2NDIxNjVlLTI4NGEtNDMwNi05ZTQ5LTY4ZTM2Y2JkYjAwZhgAIAAoADCN06zi/C841dOs4vwvQNXTrOL8L0oceVVleERQMjJxREpWNW1kNXZVUWx2UTk1a0NNPVoeIhxtSExjc25pQnpzR3NQMHZZQzdqM29TaVR3V009ZQAAAAASqAEIOxKjAQocaWkrRFpCM2pUY0hiVDJZU0dQYnl3d0Y0MCtNPRIkY2IwNTU1MTktMDMzYi00ZDMwLWFkM2EtZDhlNjVmNWFlMWE4GAAgAigCMN+Ezeq5MTjh8pKZkzFA2YjE6rkxShxwS3NRT09FTlM2Vjd0TmdlbEppTE1teTFTd2M9Wh8iHft0SndYSEVqZHR4U1hXV2x0emNsQmY2L0xNMG89ZUK0k8ISrwEIMBKqAQocT0svQ2M1R3ZobEM5cUVpdjNhVW5FeUd6d1JnPRIkZWZmMTUzNzYtOWI2ZS00MDE0LTljYWEtNzRmZmFkMTM5NWZjGAAgACgAMKrOsfjmMDjr0rH45jBA69Kx+OYwShxlOGFFNTk2ZGxBRHRxTGppTUxjL2d1R01PQ3M9WiYiJP////8AAAAIR3RPWEhvbEUrcHdOcExSZ3NrUUVHdCtEakZ3PWWMrbbSEq8BCDMSqgEKHG1vanpzSDNmREJLWnljVHhwcEE5dXBsdEpyVT0SJGNlNTc3OWYyLWQyNGItNDU3OC04MjA1LTdmMTliYzg4ODcyMhgAIAAoADCszrH45jA4mtOx+OYwQJrTsfjmMEocNXRkN2FPWXg0SVFHTTR4bFlBTmEzMUlVUXNNPVomIiT/////AAAACWFOdVIxcyt6YXFXNHFhM0hvTnNsSjlIOUhtRT1l+uj/GBKnAQhDEqIBChw2SjVtRlhtN1ZtUjhwUHdPMUJZaDdoT1NZa009EiQxZDQwYzZhMy03OGNlLTRmMGEtOTE0OC00ZDYwZGViZmQzZmEYACAAKAAwo+SIyp8xOMK9iMqfMUDCvYjKnzFKHEVHdWcxUHRxRkU2d2VGUzVDZTJHU2orV0hiaz1aHiIcaGFUTnBPSnMwa2NQTmw3R01pUnFOMTZHSTBzPWVcaF8sEq8BCBkSqgEKHGxuSHFPcU1IOXJUZ1hzKzVHRFJpdUd5SXY0VT0SJDk3MjVjMDFjLWJhYTEtNDc0Ny04MWIxLTk2MzQ2MWUzNzM3NRgAIAAoADCpz6745jA4+tSu+OYwQPrUrvjmMEocSXpDcUdDWGxaekdDTXFMWFBOdGo5L01lNHFvPVomIiT/////AAAABFdXNWZTUGIyQ0JqTjJCd056am5RRmVyQm43cz1lAAAAABKoAQg5EqMBChxIZzdRdzJVRDI4Y0FEOXVoYzIvUXZIRDRUcDA9EiRiNDJkM2M4NC00ZmRhLTRjZDItYWE4My0wNTQ2ZjhjM2E0NDIYACACKAIw4ITN6rkxOLKTsaiRMUDXiMTquTFKHFVpQ0hkbEhMT3ByOGNST0JxSEhtY2FhL2orTT1aHyId7mMvdFE0WUJNTk4vR1dMMjBWakNpekQxRVlFVT1lnLKJ5RKwAQgoEqsBChxIV3ZBYlRCeEw4VzhIZUtDUFF2RThMMFJrUUU9EiQzM2ZjODFlMy03ODU4LTQ0ODQtYTY0Ny1kZDhhZWMzODEyM2IYACAAKAAwpM+u+OYwON7TrvjmMEDe06745jBKHDg3TFdHVVdTZ1pFZG1WNVVBekFkOWVONElBRT1aJyIl/////wAAAAamN2VCdTJBTlMyVG9rQkJYSGN6TVZRaDh1T2JnPWVIZUshErABCDISqwEKHDJWQW96UFNQTlQwbWNZZmUweExVR0hxWjNjdz0SJDczYjU3NTk4LWM4NWUtNDdhOC1hN2Q5LWU5NTFhMDYwYjY5ORgAIAAoADD9v7H45jA44cGx+OYwQOHBsfjmMEocRFVQOGxMUFRramVoUVBBRys5VUJrK25IR0h3PVonIiX/////AAAACP16TFZTMFFqSTdpTXRuQmd0TENQZGt5TEc3THM9ZQAAAAASqAEIOBKjAQocdFRSaXJMVzJCY1ZIMHQ0anpkd2w1S2N3WjBzPRIkZjUwMDA2NzItYWZmNy00MTc3LWFjMzUtOWZkODc4NzJiY2YyGAAgAigCMOGEzeq5MTjt0qCIhjFA1ojE6rkxShxYLzNieENwMXJmcEt1Y1hBa1owa3pHUWlXbEE9Wh8iHd04SVQ1ak43bHR2RXRJZ3J3WnJPTUJYUm5zazg9ZcQMBv8SsAEIJhKrAQocZlpUeXl0Vk81cmJTUUdxa0xXNjNna085ZGJBPRIkYTA0NjhlMzAtMjNkYy00ZmNmLWExYmQtM2JmODU4ZjBlMTNhGAAgACgAMIrAsfjmMDiqxLH45jBAqsSx+OYwShwzTVNLWHZlVVVoWTRHaExtR3lKNncwMXorOTQ9WiciJf////8AAAAF/k5hK0VVNXhhN01uSXJUb3hZYmVsSW9ZNzhoaz1lnMtTSRKvAQgaEqoBChx5NGpyc3lrQllnOEpTWnArOTB0eEFZM2xDMG89EiRlZWYzMmRiZC01ZDhmLTRmZWYtOTA3OS0wY2RlZGFmYjkyYWEYACAAKAAwgcCx+OYwOL/CsfjmMEC/wrH45jBKHElvSzdwWEhoTkV1RDNiMHZTUUtHSk5jY1NWYz1aJiIk/////wAAAARiTFprUTlFUHVWZU5hRStuN2JQZGlZekJXZVE9Zfro/xgSqAEIPRKjAQocWDVtejVaMlRrdkNyWlhJREtqeUt4U2hMUzd3PRIkOGI4YWNjMTctNGNlYS00NDlmLWI2NzAtMDU3YmU5MjJlZGYyGAAgAigCMN6Ezeq5MTiu6tzHlDFA24jE6rkxShxsNE4xVm1hQWV6dWI4RVFlN2hld2dmam1Oajg9Wh8iHf5EZ1o5N0c5dkdrL28waGRUWXdubkJGdWJSNnc9ZZ1mmcISsAEIJRKrAQocZk1qYmlzcUxvMEV0OU1WWHJIZ3NzWWVHS1NJPRIkODM0NjEzNGYtMmRjNy00MzRiLWJlZmQtNjNkYTIyMTdhZmZiGAAgACgAMKOurvjmMDivr6745jBAr6+u+OYwShxnY1pqcFlQNU1vMERycWRDZDV2SStDVVF1WUk9WiciJf////8AAAAF/VNsQjhPZlI2NURndVNnL2NsdTU2ODFYd1JwOD1lJimrvxKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0YWJjMTdkNS1kYjA0LTVmYTktOTUwNy1kM2FjZjNlYTg3MTcYACAAKAAwtp3Q0LIuOLXGpIPxL0C1xqSD8S9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEq8BCCMSqgEKHGErajl1YXNqUXdnZnFyRmhrMVpIODFteHVHQT0SJGE4NDIxNWI3LTQyMDEtNDg5OS1hNTNlLWU0ZjdiZTc5MzE0OBgAIAAoADCGwLH45jA4vMOx+OYwQLzDsfjmMEoceTNPRjlaQTY0YW5Lb0p0Z3cyVzZrOEF5L2hFPVomIiT/////AAAABXNROWlHazlLNkZJMEJDOHE4SGphdGVJaSs4VT1lD8w0FBKoAQhHEqMBChxsaXl0aUVJRnQ1Y1NFZ3QxeXlpUGg2WkxKV1E9EiQyNjg0MzY4ZC0wZDkxLTRjMjQtYWE0OC01Y2QyOTc2ODQzZWQYACAAKAAwjuihw7kxOOXrocO5MUDl66HDuTFKHGd4S3JzYytYbUVPaS9rcXlpK3piN1RQOEVZND1aHyId9jFwZlhLWXZhcFpMcys5R3pWRWdXR2haZEJRVT1lwKUouhKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ4YzM5NjZiYy1jZDlhLTVhNGQtYmMwZi01MWU4MTQ4ZWMxMzIYACAAKAAwsZ3Q0LIuOOfFpIPxL0DnxaSD8S9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCEASowEKHGpwZUdmVFpDNmVEblN4czFLT1d3NXJXZWVsQT0SJDA4OWMyZjQ1LWY0ZWUtNGVkNC1iYjBlLTE5ZTc0YmY1Y2FjZBgAIAAoADCi2sXKmzE4xebFypsxQMXmxcqbMUocZTFySHRNeTFXSGZ0NFFubXdMY1pZM1RZa1FvPVofIh3/Z1AvWE5kWWJTZHdJODh1bVdwYlJETG9ENTNJPWUPzDQUEq8BCCISqgEKHExDRU9kTE9kMHlsUndVMlFxVmsycitKVkErRT0SJGE5YjQ4MDJiLTYxZjItNGFlNi1hZTZiLWEyYmVhNWZkMzQ1NxgAIAAoADCEwLH45jA4/cKx+OYwQP3CsfjmMEocdFZjSUF3RTA2NUhmV3gxekIweVpoOG4wVmMwPVomIiT/////AAAABVVTdCs3WDRvakJGSll4K2VOSEEwSkJWSmlxZz1lzuVKWhKwAQgeEqsBChxGb1VDcXB3OUlRWDFRRlMxRW8xVXZaQTZobUU9EiRjZGZhYzhjYi03MDM4LTQ1NjItODVjMy1hNmZjN2YxZmYwZjUYACAAKAAwhcCx+OYwOJ3DsfjmMECdw7H45jBKHHQycENrUnBqcE54Szl5M3VFbmFDZUkrQ3RSQT1aJyIl/////wAAAAT2MFFsN21COXRXTEFQYXQzYzlDK0x5QUdCQ1hJPWXdoQsOErABCCESqwEKHGZsTG5qWFFRY0tsbzJaaWhSd2tQQUFza002QT0SJGY5ODQxZmVkLWIwYWUtNGJkYy04NTRmLWU3NzQxZTY2M2ZlZBgAIAAoADCmzrH45jA4/tGx+OYwQP7RsfjmMEocQm9PR2dXbFFxRE45WStwY1BNbEFpYmovMEpNPVonIiX/////AAAABP5mNkdGbXFKTVZKb2R6ZGNQbFRzSEd6ZHRUcG89ZSdP5U4SsAEIKxKrAQocYXlGVTRsd2h3bFQxN3dVcGw2ODR0WjZ4UGdjPRIkNDVjZjliMTItMzBlNi00OThmLWJkMGQtOTkyNWI0ZjlkYWI2GAAgASgBMLqazeq5MTjnz7H45jBA0IjE6rkxShxoM00vOWh0WWx4N2UxWjd6M2M5V2VDTVJzUUE9WiciJf////8AAAAHrVF3TVBhWGt3OVNWbit6dVFRM3JKVmFNNkJlbz1lwKUouhKvAQgnEqoBChxGaGtSNERCS1hZazd1ZnlmZHBUV2dZelJyUDQ9EiQzMzRlZTk4Ni03ZjcxLTQwNTgtYjE3NC0wODY0NjI5ODNmNzkYACABKAEwu5rN6rkxOPzDsfjmMEDNiMTquTFKHGxCNlNBc3Y2UHBzd01PMElPV1ZTMGtKbGZnST1aJiIk/////wAAAAZMVG04QXlkSjIvVUlFckhrWXlzZ1VVbW9VSG89ZcClKLoSsAEILhKrAQocSHNZZDFrc1VBVEV2TCt4UHd4Tlg4clRkT3pNPRIkMGE4OWI0NWMtZjYzOC00MmZiLWE3MzctOWNlOGQ2MTQwMGE2GAAgACgAMKvOsfjmMDj70rH45jBA+9Kx+OYwShxDT0xQNWRtTFJXdDBqT3d4NmN2enA4V2ZrV3M9WiciJf////8AAAAH/XdrY1VicktwRzRGVlBMNWtCcUdzZGJXZjdnbz1li3pETxKpAQgVEqQBChxVcTlCM2ZLaGFwbGo0VHpHQ3pkVmN3VmxzUVE9EiQzOTMzYjJkZC0yMzE0LTQwYjMtOGJiNy1iNzVmYzE1MjJlNDQYACAAKAAwicCx+OYwOIvEsfjmMECLxLH45jBKHEhJYUtKeVB2MlV2RnJEa3g5bTlQaHg2a1lqUT1aICIe//0rRjV6a1V1VFU4c01ONTVVMm9DTVpXbVhFM1E9ZSjQ4akSsAEIHRKrAQocb0hHa0U4NUZteDNGYjlYSFg0N1h2NitLNGV3PRIkNTRlOWU4YzAtYmVkOC00NzBlLWE1MmEtMWVkZmNmNWY3NGI5GAAgACgAMKXOsfjmMDjf0bH45jBA39Gx+OYwShw2dWgydjNNYi9VRHJjUzcvc2h2Y2RPSkx2Wnc9WiciJf////8AAAAE7GJBb2hkN0NiekFHRDRHbTB6ZTBtU1RrMkJNcz1lbU9OMxKrAQgWEqYBChwramV4R3YxRU5DNjhkM0ljWE4wK3BoYzdxWG89EiQzZTQ4MDJkMi0xYzZkLTQ1NzMtYTJlNy0yYzMyNTAzNDdlYjAYACAAKAAwg8Cx+OYwOO7CsfjmMEDuwrH45jBKHHlzTlN0VXZramdlS0ZseFhzWmR1c2k2ZVZhcz1aIiIg////uk9OQzc3cGVQdlFiUVZZQjBsbGp3RmpyMm9nTT1lyC5sJhKoAQg8EqMBChxLNGxmQWVraHVRTDZaQmlVTlE5Z0JadlgydGM9EiQ2NmUxMzFkZS1kZTUwLTQxODktOTg3OC1jZmUzN2E4MjEwYjcYACACKAIw4oTN6rkxOISVkOOTMUDaiMTquTFKHDNwaGN1aGJBeGVXRkxhdFZpbkxBUTkvZ3ZNdz1aHyId/UQyRURGS1Q1eGVvTUt3ajNCQ29WZnFxN1Fvbz1lwKUouhKrAQgXEqYBChxjVEI5UUZnZFhjZ0tHYkhrQkVIb050K3NRS1E9EiQxYTE2NGQ4ZS0yYzNhLTRkMjctYmNjZS01ZjY5NTJiMDIyNDUYACAAKAAwn8+u+OYwONHSrvjmMEDR0q745jBKHGwyUmpjS3BuZ3FmVjFaeTRFa2FsT3RCM0ViTT1aIiIg/////nR2Mm9OYnVMZmZmenBYM05STGt6TjJYSW4vTT1l1Nt3gBKwAQgtEqsBChxGMW45S0FQZW1GVE1BQi9lU0llYTc5aGZseTA9EiQ5NjgxZDUyYi1kMzIxLTRmYTctOGUxZC1kNjU0NmM3Nzk1OWUYACAAKAAwo8+u+OYwOL7TrvjmMEC+06745jBKHFhZYmNQbFJCVk1LN3M1UjRjTlZnRTRGcFQrYz1aJyIl/////wAAAAf6Yk1kRDd2MC9pZkxDWTRlRk1wZlVrWlVOUjR3PWUAShqbErABCBsSqwEKHE9sVDB5NE9sVVZTYzNaZlpVTGxHdDhzSE9Ndz0SJDA1Y2NjZjYyLThmOGMtNGZiNy04MTA5LTRkODJhZGZjNjMxMxgAIAAoADCazrH45jA4qM+x+OYwQKjPsfjmMEocTDVJK2UyRHF0cXZNN2lOSFhQdXZDQUxqT1cwPVonIiX/////AAAABLFZaFM4eUJTZ3JqZ0R3d2R0MG9VWmdWQkxmcDA9ZQAAAAASsAEIJBKrAQocVGR1WUgrMGZIbEwzQUVSaHJWQ01yZ3dzVDg4PRIkZTk4NWEwMmUtNmI4NC00MmY2LWFmMDUtYjczZjZlODBhY2FiGAAgACgAMJ3OsfjmMDiG0LH45jBAhtCx+OYwShxONDBzbkVIeHlXSEZkTXR3Q1B3VW1lL1U3Q0k9WiciJf////8AAAAF+1RuYWxDT1hBWSs0NlIwYnVjdmxqSUJEZTBlRT1lD8w0FBKvAQgYEqoBChx2R2RCNURXNEg4TWlnWUFzSnJGSzd5QlF2Nkk9EiQzMDM4NGUzMS1lYWI2LTQwMmMtYWZiOS04ZWQ4M2RhZjhiYzQYACAAKAAw+r+x+OYwOJPBsfjmMECTwbH45jBKHDRhdTBvMkFnbzNWekFxdzk3Y3Q1Vmltb0tVQT1aJiIk/////wAAAARSVEN2STd3emlsRDhvemV3aFZlME1FNHM3dDA9ZfQOwaoSsAEIKRKrAQocaEEwM05LVmtqb01WaThtTi9yUHpvREJBNXE4PRIkYWExYzE2OWQtMWYxMC00ZTMxLTg5NDUtOTQ2MzUwMmQ4ZjY3GAAgACgAMLGurvjmMDigtK745jBAoLSu+OYwShxaSmJoQzBFZHhCOGFYOFMvK2lqdDdLeXBESXM9WiciJf////8AAAAG6WhQcW1aanVXaFRRalJSWkduTTdiNnQ5cFY1UT1lnyJfZRKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQwYmE5YTE1My1mMGU4LTUyOGQtYWM5OC1lNzNhMDg4NDE1YTIYACAAKAAwsp3Q0LIuOPfFpIPxL0D3xaSD8S9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAErABCCwSqwEKHG9PQ1hIaGNrRnFqOSsweWhpWDVTYmQ0aE8raz0SJDRlZDI5ZWNmLTA0YjYtNDVkNC04YzE4LTEyNGQ2NDBiNWRlMxgAIAAoADCnzrH45jA4ndKx+OYwQJ3SsfjmMEocUGFQZzZuVkI2cGlxUkxwWmZpUFNLc1lpNFJrPVonIiX/////AAAAB/VTaU9qTFBGZU9BUDFtWUNmbDM4R0h1S3pKZGc9Zb0SsK0SqAEIExKjAQoccm42M21rbytWQXdabDJZVkpyaG5STllhTzNnPRIkZGYxYjhmYTMtNDQzYi00ZmYxLTgyZDQtZWJlZjdmMjU3YjNiGAAgACgAMP6/sfjmMDjxwbH45jBA8cGx+OYwShxJZlhLWWhBQjJsc0FWS2pSQ2o4UW9wekpRZkk9Wh8iHfZxbWJqQ3hwZVJpNC9pVlQrVWIvQ283aHAvcE09ZfrDzZkSqQEIFBKkAQocRDhFUkwybmErTzRwVUFBbVM1c2dxbWRHaGQ0PRIkNGRmOTQwYWEtNDNiNi00YjM5LTk2MWYtMDM3NWNhZGFkNTJmGAAgACgAMK+urvjmMDjxs6745jBA8bOu+OYwShxrejZKQnBNNzk2M2V0dTFRV1prU2JUYjF2a0E9WiAiHv+5WUh3TjFNNWorODZ5VnFSclFubElaQ1BuY21zPWXlLXNrErABCBwSqwEKHEo1MGk1Rmg0b1JxVkFVOEJPa0tqNElQa1R5cz0SJDc0MmJkMjVhLWI2ZGEtNDA1ZC04MjMwLTQ2NjgwYjNkY2Q5YhgAIAAoADCsrq745jA4k7Ou+OYwQJOzrvjmMEocOEJ6bmlFWmJOSU5tRFl4ODVyTjY3QTlLK0xBPVonIiX/////AAAABNhtWi9obGtKZEExWm94VVJ1eEl3WGw2ZEx0bFU9ZVuFQ2MSqAEINxKjAQocd2xWWWdROXU1MW9NYzZXTHg1dHpsa2dza3E4PRIkMDQ5NTE4ZTQtMGNiNC00ZjEyLWJjMmItZmJmOGUwMGQ3NjcyGAAgAigCMOOEzeq5MTiV18u57TBA1ojE6rkxShxiZExncm9jZGRtV0RjZ2huS0M5NjdobmlGcnM9Wh8iHbpXb3FuYS9NVzJ0MTJNR1B5VGMxWndOMXdtc2c9ZcClKLoSsAEIHxKrAQocbGtremlJTzF0aXRtUk5mZmNHT2pRSnBlMC84PRIkMzdmZjMzMmEtYmE4ZS00MzIzLTlhMTktZGExMjcwMWZmMGE2GAAgACgAMIzAsfjmMDjZxLH45jBA2cSx+OYwShxYU3RZRWJkUW1FS29IdDdrTEttUk5qWnVnMUE9WiciJf////8AAAAE+3ZPWVYvQmIxeXlma2t4dWRHbU14T1psZUljVT1l0jop7hKnAQgREqIBChwvM1NkVlJlUW45U08yQ2IxbTU4RFFkYXNQMFU9EiQyMDZhNzAwYS1jOTFiLTQwMWEtYWViMi1kZTc4ODA1NzM1MDIYACAAKAAwpq6u+OYwONixrvjmMEDYsa745jBKHFBJb2J4R0hSMlZ5QTBIdlpzNk1wZXA0dHU0UT1aHiIcaGRvOWZoOUx1THFlc2QwK2M0N1Z3a2lnbGlzPWUyQ06VEqgBCBISowEKHHpmcHRxNG9tYmxzZWtPZi9JaTBnY0gxSlJBOD0SJDY5MWE0ZjAwLWVkMjYtNGU2My05NzJiLTI2NGVmMjcwYjZlYhgAIAAoADCbzrH45jA4yM+x+OYwQMjPsfjmMEocMmtLSG40WmdJU3RlTjJDbm4vRHUraHErTUljPVofIh3tNXFvajd0a0ptNmJQeWZUSDZ6UmJ1ZVpYMzNVPWV5u9lFMAA4AA==",
+   "version": 1
+}
